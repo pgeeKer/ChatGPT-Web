@@ -344,19 +344,3 @@ docker run -d --name chatgpt \
 
 - [想要做出贡献？](https://github.com/GaiZhenbiao/ChuanhuChatGPT/wiki/贡献指南)
 - [项目更新情况？](https://github.com/GaiZhenbiao/ChuanhuChatGPT/wiki/更新日志)
-
-## Starchart
-
-[![Star History Chart](https://api.star-history.com/svg?repos=GaiZhenbiao/ChuanhuChatGPT&type=Date)](https://star-history.com/#GaiZhenbiao/ChuanhuChatGPT&Date)
-
-## Contributors
-
-<a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=GaiZhenbiao/ChuanhuChatGPT" />
-</a>
-
-## 捐款
-
-🐯如果觉得这个软件对你有所帮助，欢迎请作者喝可乐、喝咖啡～
-
-<img width="250" alt="image" src="https://user-images.githubusercontent.com/51039745/226920291-e8ec0b0a-400f-4c20-ac13-dafac0c3aeeb.JPG">
